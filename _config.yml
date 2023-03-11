@@ -21,8 +21,7 @@
 title: Tanya Selvog
 email: tanyaselvog@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Portfolio for new projects. 
-  Developer 👩‍💻 Logic lover 🧩 AFOL 🧱
+  Portfolio site for projects and learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
