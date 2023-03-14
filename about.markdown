@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 
-Scheduler App (https://github.com/TanyaSelvog/Software_II_Project)
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+[Scheduler App] (https://github.com/TanyaSelvog/Software_II_Project)
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
