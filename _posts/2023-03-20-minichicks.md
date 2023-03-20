@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Many mini chicks
+title:  "Many mini chicks."
 categories: lego 
 ---
 
