@@ -2,11 +2,10 @@
 layout: page
 permalink: /about/
 ---
-
 I'm a Software Developer who is passionate about learning new things, supporting women and minorities in tech, and building community. After years in various non-tech positions, I finished my Bachelor of Science degree in January 2023, and I'm excited to apply all of my skills and knowledge towards a career in software development.
 
 
-## Projects
+### Projects
 [Scheduler App](https://github.com/TanyaSelvog/Software_II_Project)
 
 Scheduler App is a GUI-based scheduling desktop app where users can add, edit, and delete appointments and client data, and generate selected reports. It was built in IntelliJ CE using JavaFX and MySQL, and it was completed per WGU's requirements of Software II - Advanced Java Concepts coursework.
