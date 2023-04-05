@@ -6,16 +6,8 @@ permalink: /about/
 
 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a Software Developer who is passionate about learning new things, supporting women and minorities in tech, and building community. After years in various non-tech positions, I finished my Bachelor of Science degree in January 2023, and I'm excited to apply all of my skills and knowledge towards a career in software development.
 
+
+## Projects
 [Scheduler App](https://github.com/TanyaSelvog/Software_II_Project)
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
