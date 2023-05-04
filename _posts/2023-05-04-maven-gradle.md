@@ -35,7 +35,7 @@ Initially released in 2008, Gradle is a build automation tool that is open-sourc
 
 
 
-##### Resources
+### Resources
 * [Wikipedia: Apache Ant](https://en.wikipedia.org/wiki/Apache_Ant)
 * [Maven in 5 Minutes](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html) A verbose overview on installing and creating a project using Maven
 * [Gradle User Manual](https://docs.gradle.org/current/userguide/userguide.html) Easy-to-read documentation on how to use Gradle
