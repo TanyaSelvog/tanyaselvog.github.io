@@ -10,26 +10,28 @@ categories: java
 
 A build tool is a script, framework, or any kind of software created specifically for a given programming language to compile code, run tests on it, or do other operations needed for a build.
 
-Prior to Maven and Gradle, [Apache Ant](https://ant.apache.org/), was released in 2000, and uses XML for dependencies and the code build process. 
+Prior to Maven and Gradle, [Apache Ant](https://ant.apache.org/), was released in 2000, and uses XML for dependencies and the code build process.  
+
 
 ### Maven
 
-Apache Maven was initially released in 2004 and it is a build automation tool used primarily for Java projects. Maven projects are configured using a [Project Object Model (POM)](https://en.wikipedia.org/wiki/Apache_Maven#Project_Object_Model). 
+Apache Maven was initially released in 2004 and it is a build automation tool used primarily for Java projects. Maven projects are configured using a [Project Object Model (POM)](https://en.wikipedia.org/wiki/Apache_Maven#Project_Object_Model).  
+
 
 * Allows developers to create a file structure in a single command
 * Provides dependency manager functionality & Maven Central Repository
 * Extends functionality with plug-ins
-* Uses XML
+* Uses XML  
 
 ### Gradle
 
-Initially released in 2008, Gradle is a build automation tool that is open-source and runs on the JVM. It is supported by various IDEs like Android Studio, IntelliJ IDEA, VSCode, and Eclipse. 
+Initially released in 2008, Gradle is a build automation tool that is open-source and runs on the JVM. It is supported by various IDEs like Android Studio, IntelliJ IDEA, VSCode, and Eclipse.  
 * Supports multiple languages including: Java, Kotlin, Groovy, Scala, JavaScript and C/C++
 * Build scripts are written in Groovy DSL (domain specific language)
 * Declarative style of programming
 * Allows for an incremental build
 * Doesn’t have to be installed separately 
-* Chosen by Google to be the official build tool for Android 
+* Chosen by Google to be the official build tool for Android  
 
 
 
