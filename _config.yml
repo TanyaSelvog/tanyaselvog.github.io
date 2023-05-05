@@ -30,7 +30,6 @@ flickr_username: tanyaselvog
 
 # Build settings
 theme: minima
-paginate: 5
 
 # Exclude from processing.
 # The following items will not be processed, by default.
