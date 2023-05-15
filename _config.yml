@@ -27,7 +27,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  tanyaselvog
 flickr_username: tanyaselvog
-
+header_pages:
+  - about.md
+  - portfolio.md
 # Build settings
 theme: minima
 
