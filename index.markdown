@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![notebook with stickers on the cover](/tanyaselvog.github.io/assets/stickers.jpg)
+![Lego minifig of a woman standing by a desk](/tanyaselvog.github.io/assets/legoMe.jpeg)
