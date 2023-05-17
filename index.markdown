@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![notebook with stickers on the cover](/tanyaselvog.github.io/assets/stickers.jpg)
