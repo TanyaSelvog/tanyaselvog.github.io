@@ -5,8 +5,7 @@ permalink: /about/
 ---
 
 
-![Lego minifig at a desk in front of a computer](/tanyaselvog.github.io/assets/meMOC.jpeg)
-
+![Lego minifig of a woman standing by a desk](/tanyaselvog.github.io/assets/legoMe.jpg)
 
 I'm a Software Developer who is passionate about learning new things, supporting women and minorities in tech, and building community. After years in various non-tech positions, I finished my Bachelor of Science degree in January 2023, and I'm excited to apply all of my skills and knowledge towards a career in software development.
 
