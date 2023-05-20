@@ -4,4 +4,3 @@
 
 layout: home
 ---
-![Lego minifig of a woman standing by a desk](/tanyaselvog.github.io/assets/legoMe.jpg)
