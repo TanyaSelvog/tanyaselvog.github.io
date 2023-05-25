@@ -1,5 +1,5 @@
 layout: post
-title:  "Northern Area State Hospital"
+title:  "Northern State Hike"
 categories: hiking 
 ---
 
