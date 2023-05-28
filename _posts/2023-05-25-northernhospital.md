@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Northern State Hike"
 categories: hiking 
