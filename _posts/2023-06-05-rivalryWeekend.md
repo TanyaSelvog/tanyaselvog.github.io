@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Rivalry Weekend ⚽"
+title:  "Doubleheader Weekend ⚽"
 categories: soccer 
 ---
 
-I'm learning how to play chess and I'm really enjoying it. I made a set out of LEGO this past week because I thought it would be fun and help me learn the pieces and what they do more quickly. 😆
+I had a great weekend and celebrated a friend's birthday by going to see the Sounders and OL Reign doubleheader. Our seats were great and the weather was perfect. 
 
 ![large banner above the Sounders supporters section ](/tanyaselvog.github.io/assets/legacy.jpeg)
 
-![large banner above the Sounders supporters section ](/tanyaselvog.github.io/assets/lodeiro.jpeg)
+![Sounders Nico Lodeiro](/tanyaselvog.github.io/assets/lodeiro.jpeg)
