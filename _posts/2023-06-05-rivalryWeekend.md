@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Doubleheader Weekend ⚽"
+title:  "Rivalry & Doubleheader Weekend ⚽"
 categories: soccer 
 ---
 
