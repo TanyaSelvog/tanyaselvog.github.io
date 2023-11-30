@@ -24,7 +24,7 @@ After creating these, the Language Studio steps were pretty straightforward.
 
 **Results**
 
-I uploaded the PDF and honestly, I wasn't anticipating much in the way of results. 
+I uploaded the PDF and honestly, I wasn't anticipating much in the way of results. Some dates were translated, but none of the names were correct. 
 
 ![Original record](/tanyaselvog.github.io/assets/familyTree.jpg)
 
@@ -32,5 +32,7 @@ I uploaded the PDF and honestly, I wasn't anticipating much in the way of result
 
 
 
-##### Next Steps 
+**Next Steps**
+
+I'm not entirely sure where to go home from here, but I plan on reading more about machine learning and modeling to see if that will be beneficial for anything. 
 
