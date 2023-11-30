@@ -14,12 +14,22 @@ I'd like to figure out if there is a way that I can use Azure AI + Machine Learn
 
 My first step was to look into what services I thought would help me. Since Azure AI offers Document Translation (currently in Preview mode), I opened up the Language Studio and started there. 
 
+I had to create: 
 
-##### Results 
+* Translator Resource (with Storage Blob Data Contributor role on the storage account)
+* Blob Storage Account
 
-![Pumpkin painted blue with the Seattle Sounders crest painted on it](/tanyaselvog.github.io/assets/textTranslated.jpg)
+After creating these, the Language Studio steps were pretty straightforward.
+![Language Translator Steps](/tanyaselvog.github.io/assets/job.png)
+##### Results
 
-![Pumpkin painted blue with the Seattle Sounders crest painted on it](/tanyaselvog.github.io/assets/familyTree.jpg)
+I uploaded the PDF and honestly, I wasn't anticipating much in the way of results. 
+
+![Original record](/tanyaselvog.github.io/assets/familyTree.jpg)
+
+![German family record translated](/tanyaselvog.github.io/assets/textTranslated.jpg)
+
+
 
 ##### Next Steps 
 
