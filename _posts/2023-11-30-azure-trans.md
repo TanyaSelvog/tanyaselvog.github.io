@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning Azure: Playing w/Document Translator"
+title: "Learning Azure: Translating Family Records"
 ---
 **Background**
 
