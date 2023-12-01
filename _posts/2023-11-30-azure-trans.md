@@ -22,6 +22,7 @@ I had to create:
 * Blob Storage Account
 
 After creating these, the Language Studio steps were pretty straightforward.
+
 ![Language Translator Steps](/tanyaselvog.github.io/assets/job.png)
 
 **Results**
@@ -29,6 +30,7 @@ After creating these, the Language Studio steps were pretty straightforward.
 I uploaded the PDF and honestly, I wasn't anticipating much in the way of results. Some dates were translated, but none of the names were correct. 
 
 ![Original record](/tanyaselvog.github.io/assets/familyTree.jpg)
+
 
 ![German family record translated](/tanyaselvog.github.io/assets/textTranslated.jpg)
 
